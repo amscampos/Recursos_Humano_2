@@ -1,0 +1,54 @@
+D:\UNIP\2 Semestre\PIM\Aulas\Recursos Humanos 2\bin\Debug\net7.0-windows\Recursos Humanos 2.exe
+D:\UNIP\2 Semestre\PIM\Aulas\Recursos Humanos 2\bin\Debug\net7.0-windows\Recursos Humanos 2.deps.json
+D:\UNIP\2 Semestre\PIM\Aulas\Recursos Humanos 2\bin\Debug\net7.0-windows\Recursos Humanos 2.runtimeconfig.json
+D:\UNIP\2 Semestre\PIM\Aulas\Recursos Humanos 2\bin\Debug\net7.0-windows\Recursos Humanos 2.dll
+D:\UNIP\2 Semestre\PIM\Aulas\Recursos Humanos 2\bin\Debug\net7.0-windows\Recursos Humanos 2.pdb
+D:\UNIP\2 Semestre\PIM\Aulas\Recursos Humanos 2\obj\Debug\net7.0-windows\Recursos Humanos 2.csproj.AssemblyReference.cache
+D:\UNIP\2 Semestre\PIM\Aulas\Recursos Humanos 2\obj\Debug\net7.0-windows\Recursos Humanos 2.csproj.GenerateResource.cache
+D:\UNIP\2 Semestre\PIM\Aulas\Recursos Humanos 2\obj\Debug\net7.0-windows\Recursos Humanos 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNIP\2 Semestre\PIM\Aulas\Recursos Humanos 2\obj\Debug\net7.0-windows\Recursos Humanos 2.AssemblyInfoInputs.cache
+D:\UNIP\2 Semestre\PIM\Aulas\Recursos Humanos 2\obj\Debug\net7.0-windows\Recursos Humanos 2.AssemblyInfo.cs
+D:\UNIP\2 Semestre\PIM\Aulas\Recursos Humanos 2\obj\Debug\net7.0-windows\Recursos Humanos 2.csproj.CoreCompileInputs.cache
+D:\UNIP\2 Semestre\PIM\Aulas\Recursos Humanos 2\obj\Debug\net7.0-windows\Recursos Humanos 2.dll
+D:\UNIP\2 Semestre\PIM\Aulas\Recursos Humanos 2\obj\Debug\net7.0-windows\refint\Recursos Humanos 2.dll
+D:\UNIP\2 Semestre\PIM\Aulas\Recursos Humanos 2\obj\Debug\net7.0-windows\Recursos Humanos 2.pdb
+D:\UNIP\2 Semestre\PIM\Aulas\Recursos Humanos 2\obj\Debug\net7.0-windows\Recursos Humanos 2.genruntimeconfig.cache
+D:\UNIP\2 Semestre\PIM\Aulas\Recursos Humanos 2\obj\Debug\net7.0-windows\ref\Recursos Humanos 2.dll
+D:\UNIP\2 Semestre\PIM\Aulas\Recursos Humanos 2\obj\Debug\net7.0-windows\Recursos_Humanos_2.FormPrincipal.resources
+D:\UNIP\2 Semestre\PIM\Aulas\Recursos Humanos 2\obj\Debug\net7.0-windows\Recursos_Humanos_2.FormAlterarCadastro.resources
+D:\UNIP\2 Semestre\PIM\Aulas\Recursos Humanos 2\obj\Debug\net7.0-windows\Recursos_Humanos_2.FormCadastro.resources
+D:\UNIP\2 Semestre\PIM\Aulas\Recursos Humanos 2\obj\Debug\net7.0-windows\Recursos_Humanos_2.Properties.Resources.resources
+D:\UNIP\2 Semestre\PIM\Aulas\Recursos Humanos 2\obj\Debug\net7.0-windows\Recursos_Humanos_2.FormPesquisar.resources
+D:\UNIP\2 Semestre\PIM\Aulas\Recursos Humanos 2\obj\Debug\net7.0-windows\Recursos_Humanos_2.FormCalculoPagamento.resources
+D:\UNIP\2 Semestre\PIM\Aulas\Recursos Humanos 2\obj\Debug\net7.0-windows\Recursos_Humanos_2.FormCargos.resources
+D:\UNIP\2 Semestre\PIM\Aulas\Recursos Humanos 2\obj\Debug\net7.0-windows\Recursos_Humanos_2.FormDeletarFuncionario.resources
+D:\UNIP\2 Semestre\PIM\Aulas\Recursos Humanos 2\obj\Debug\net7.0-windows\Recursos_Humanos_2.FormFolhaDetalhada.resources
+D:\UNIP\2 Semestre\PIM\Aulas\Recursos Humanos 2\obj\Debug\net7.0-windows\Recursos_Humanos_2.FormFolhaNormal.resources
+D:\UNIP\2 Semestre\PIM\Aulas\Recursos Humanos 2\obj\Debug\net7.0-windows\Recursos_Humanos_2.FormHolerite.resources
+D:\UNIP\2 Semestre\PIM\Aulas\Recursos_Humano_2\bin\Debug\net7.0-windows\Recursos Humanos 2.exe
+D:\UNIP\2 Semestre\PIM\Aulas\Recursos_Humano_2\bin\Debug\net7.0-windows\Recursos Humanos 2.deps.json
+D:\UNIP\2 Semestre\PIM\Aulas\Recursos_Humano_2\bin\Debug\net7.0-windows\Recursos Humanos 2.runtimeconfig.json
+D:\UNIP\2 Semestre\PIM\Aulas\Recursos_Humano_2\bin\Debug\net7.0-windows\Recursos Humanos 2.dll
+D:\UNIP\2 Semestre\PIM\Aulas\Recursos_Humano_2\bin\Debug\net7.0-windows\Recursos Humanos 2.pdb
+D:\UNIP\2 Semestre\PIM\Aulas\Recursos_Humano_2\obj\Debug\net7.0-windows\Recursos Humanos 2.csproj.AssemblyReference.cache
+D:\UNIP\2 Semestre\PIM\Aulas\Recursos_Humano_2\obj\Debug\net7.0-windows\Recursos_Humanos_2.FormAlterarCadastro.resources
+D:\UNIP\2 Semestre\PIM\Aulas\Recursos_Humano_2\obj\Debug\net7.0-windows\Recursos_Humanos_2.FormCadastro.resources
+D:\UNIP\2 Semestre\PIM\Aulas\Recursos_Humano_2\obj\Debug\net7.0-windows\Recursos_Humanos_2.FormCalculoPagamento.resources
+D:\UNIP\2 Semestre\PIM\Aulas\Recursos_Humano_2\obj\Debug\net7.0-windows\Recursos_Humanos_2.FormCargos.resources
+D:\UNIP\2 Semestre\PIM\Aulas\Recursos_Humano_2\obj\Debug\net7.0-windows\Recursos_Humanos_2.FormDeletarFuncionario.resources
+D:\UNIP\2 Semestre\PIM\Aulas\Recursos_Humano_2\obj\Debug\net7.0-windows\Recursos_Humanos_2.FormFolhaDetalhada.resources
+D:\UNIP\2 Semestre\PIM\Aulas\Recursos_Humano_2\obj\Debug\net7.0-windows\Recursos_Humanos_2.FormFolhaNormal.resources
+D:\UNIP\2 Semestre\PIM\Aulas\Recursos_Humano_2\obj\Debug\net7.0-windows\Recursos_Humanos_2.FormHolerite.resources
+D:\UNIP\2 Semestre\PIM\Aulas\Recursos_Humano_2\obj\Debug\net7.0-windows\Recursos_Humanos_2.FormPesquisar.resources
+D:\UNIP\2 Semestre\PIM\Aulas\Recursos_Humano_2\obj\Debug\net7.0-windows\Recursos_Humanos_2.FormPrincipal.resources
+D:\UNIP\2 Semestre\PIM\Aulas\Recursos_Humano_2\obj\Debug\net7.0-windows\Recursos_Humanos_2.Properties.Resources.resources
+D:\UNIP\2 Semestre\PIM\Aulas\Recursos_Humano_2\obj\Debug\net7.0-windows\Recursos Humanos 2.csproj.GenerateResource.cache
+D:\UNIP\2 Semestre\PIM\Aulas\Recursos_Humano_2\obj\Debug\net7.0-windows\Recursos Humanos 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNIP\2 Semestre\PIM\Aulas\Recursos_Humano_2\obj\Debug\net7.0-windows\Recursos Humanos 2.AssemblyInfoInputs.cache
+D:\UNIP\2 Semestre\PIM\Aulas\Recursos_Humano_2\obj\Debug\net7.0-windows\Recursos Humanos 2.AssemblyInfo.cs
+D:\UNIP\2 Semestre\PIM\Aulas\Recursos_Humano_2\obj\Debug\net7.0-windows\Recursos Humanos 2.csproj.CoreCompileInputs.cache
+D:\UNIP\2 Semestre\PIM\Aulas\Recursos_Humano_2\obj\Debug\net7.0-windows\Recursos Humanos 2.dll
+D:\UNIP\2 Semestre\PIM\Aulas\Recursos_Humano_2\obj\Debug\net7.0-windows\refint\Recursos Humanos 2.dll
+D:\UNIP\2 Semestre\PIM\Aulas\Recursos_Humano_2\obj\Debug\net7.0-windows\Recursos Humanos 2.pdb
+D:\UNIP\2 Semestre\PIM\Aulas\Recursos_Humano_2\obj\Debug\net7.0-windows\Recursos Humanos 2.genruntimeconfig.cache
+D:\UNIP\2 Semestre\PIM\Aulas\Recursos_Humano_2\obj\Debug\net7.0-windows\ref\Recursos Humanos 2.dll
