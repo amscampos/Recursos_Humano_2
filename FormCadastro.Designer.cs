@@ -717,6 +717,7 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
+            BackColor = Color.MediumAquamarine;
             ClientSize = new Size(1048, 642);
             Controls.Add(lbCalendarioAdmissao);
             Controls.Add(lbCalendarioNascimento);

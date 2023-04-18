@@ -54,12 +54,15 @@
             panellogo = new Panel();
             pictureBox1 = new PictureBox();
             panelFormFilho = new Panel();
+            pictureBox2 = new PictureBox();
             panelmenuLateral.SuspendLayout();
             panelteste01SubMenu.SuspendLayout();
             panelrelatoriosSubMenu.SuspendLayout();
             panelgerenciamentoSubMenu.SuspendLayout();
             panellogo.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
+            panelFormFilho.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)pictureBox2).BeginInit();
             SuspendLayout();
             // 
             // panelmenuLateral
@@ -490,12 +493,24 @@
             // 
             // panelFormFilho
             // 
-            panelFormFilho.BackColor = Color.FromArgb(192, 255, 192);
+            panelFormFilho.BackColor = Color.FromArgb(46, 76, 32);
+            panelFormFilho.Controls.Add(pictureBox2);
             panelFormFilho.Dock = DockStyle.Fill;
             panelFormFilho.Location = new Point(200, 0);
             panelFormFilho.Name = "panelFormFilho";
             panelFormFilho.Size = new Size(1064, 681);
             panelFormFilho.TabIndex = 1;
+            // 
+            // pictureBox2
+            // 
+            pictureBox2.Dock = DockStyle.Fill;
+            pictureBox2.Image = (Image)resources.GetObject("pictureBox2.Image");
+            pictureBox2.Location = new Point(0, 0);
+            pictureBox2.Name = "pictureBox2";
+            pictureBox2.Size = new Size(1064, 681);
+            pictureBox2.SizeMode = PictureBoxSizeMode.CenterImage;
+            pictureBox2.TabIndex = 0;
+            pictureBox2.TabStop = false;
             // 
             // FormPrincipal
             // 
@@ -515,6 +530,8 @@
             panelgerenciamentoSubMenu.ResumeLayout(false);
             panellogo.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
+            panelFormFilho.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)pictureBox2).EndInit();
             ResumeLayout(false);
         }
 
@@ -545,5 +562,6 @@
         private Button btnRelatorio;
         private Panel panelFormFilho;
         private PictureBox pictureBox1;
+        private PictureBox pictureBox2;
     }
 }

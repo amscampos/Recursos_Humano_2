@@ -52,3 +52,4 @@ D:\UNIP\2 Semestre\PIM\Aulas\Recursos_Humano_2\obj\Debug\net7.0-windows\refint\R
 D:\UNIP\2 Semestre\PIM\Aulas\Recursos_Humano_2\obj\Debug\net7.0-windows\Recursos Humanos 2.pdb
 D:\UNIP\2 Semestre\PIM\Aulas\Recursos_Humano_2\obj\Debug\net7.0-windows\Recursos Humanos 2.genruntimeconfig.cache
 D:\UNIP\2 Semestre\PIM\Aulas\Recursos_Humano_2\obj\Debug\net7.0-windows\ref\Recursos Humanos 2.dll
+D:\UNIP\2 Semestre\PIM\Aulas\Recursos_Humano_2\obj\Debug\net7.0-windows\Recursos_Humanos_2.FormHome.resources

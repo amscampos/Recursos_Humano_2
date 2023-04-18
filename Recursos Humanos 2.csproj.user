@@ -25,6 +25,9 @@
     <Compile Update="FormHolerite.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="FormHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="FormPesquisar.cs">
       <SubType>Form</SubType>
     </Compile>
